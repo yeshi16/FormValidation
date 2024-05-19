@@ -2,6 +2,8 @@
 ### Objectives
 Create robust form validation using built-in HTML validation attributes and DOM event-driven JavaScript validation.
 ![Form](./form.png)
+
+
 ### General Requirements
 
 To reiterate, these requirements can be completed using any combination of HTML validation attributes and JavaScript event listeners that you want. Consider the right tool for each job before you begin working on it.

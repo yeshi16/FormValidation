@@ -19,6 +19,7 @@ function valUsername() {
   let usernameVal = username.value;
   //The username cannot be blank.
   if (usernameVal === "") {
+    
     errorDisplay.textContent = "The username cannot be blank.";
     username.focus();
     return false;
